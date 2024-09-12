@@ -9,7 +9,7 @@ Search Members: Search for a member by membership ID, first name, or membership 
 Clear Screen: The screen is cleared after certain actions for better readability (compatible with both Windows and Unix-like systems).
 How to Run
 Clone this repository:
-git clone https://github.com/iamohammed1/membership-management.git
+git clone [https://github.com/iamohammed1/membership-management.git](https://github.com/iamohammed1/OOP-Member--management)
 
 Navigate to the project directory:
 cd membership-management
